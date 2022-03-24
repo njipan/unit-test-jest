@@ -1,0 +1,19 @@
+{
+  "name": "unit-test-jest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@golevelup/ts-jest": "^0.3.2",
+    "axios": "^0.26.1",
+    "jest": "^27.5.1",
+    "ts-jest": "^27.1.3",
+    "typescript": "^4.6.2"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.4.1"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
